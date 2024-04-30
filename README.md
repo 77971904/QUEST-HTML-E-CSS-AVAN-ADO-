@@ -1,4 +1,4 @@
-# informações do projeto aqui!
+# Informações do projeto aqui!
 
 Página web responsiva com um design simples, um cabeçalho com um logotipo, conteúdo principal e um rodapé com links para redes sociais. Foram importados arquivos CSS externos para estilizar os ícones das redes sociais e fontes do Google Fonts.
 
