@@ -1,0 +1,54 @@
+@media(max-width: 1280px) {
+    body {
+        background-image: url('../images/bg-mobile.svg');
+        margin: 15px;
+    }
+
+    .logo {
+        padding: 0 0 0 20px;
+        margin: 40px;
+    }
+
+    img {
+        max-width: 320px;
+    }
+    .home .container-foto img {
+        max-width: 320px;
+    } 
+
+    .home .container h1 {
+        font-size: 32px;
+    }
+
+    .home .container p {
+        font-size: 20px;
+    }
+
+    .home {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .home .container {
+        max-width: 100%;
+        text-align: center;
+        align-items: center;
+    }
+      .rede-sociais {
+        margin: 50px;
+        }
+    }
+
+@media(max-width: 425px) {
+    .home .container h1 {
+        font-size: 35px;
+    }
+
+    .logo {
+        margin-left: 10px;
+    } 
+
+    button {
+        padding: 5px 65px;
+    }
+}
